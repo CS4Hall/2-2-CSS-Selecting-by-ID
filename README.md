@@ -5,4 +5,8 @@
 
 ## Directions 
 ### Step 1 - Color the winter heading <br>
-This webpage describes the favorite seasons of Olaf, a sun-loving snowman. Both of the `<h2>` tags have id's, but there are no CSS rules for styling them yet. Add 2 rules that color the headings.
+This webpage describes the favorite seasons of Olaf, a sun-loving snowman. Both of the `<h2>` tags have id's, but there are no CSS rules for styling them yet. 
+<br><br>
+Add two CSS rules so that the color of each `<h2>` tag is different.  
+<br><br>
+That means you will have to use the ID as the CSS Selector in your `<style>` tags.
